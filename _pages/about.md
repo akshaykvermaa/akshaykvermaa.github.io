@@ -1,34 +1,20 @@
----
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+> **Note – website update in progress:**  
+> I’m currently rebuilding this site, so some sections are still work in progress and may change over time.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+Akshay K. Verma is a semiconductor materials researcher specialising in **III–V epitaxy using MBE**, with a focus on **quantum dots** and **quantum photonics**.
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+His work centres on:
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+- Growth of high-quality GaAs, AlGaAs, GaSb and InGaAs nanostructures by MBE  
+- Local Droplet Epitaxy / Local Droplet Etching for site-controlled quantum dots  
+- Optimising optical linewidths and device-relevant properties for quantum technologies  
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+At the moment, Akshay is a Research Associate at the **University of Sheffield (UK)**, working on epitaxial growth and characterisation for quantum photonic devices.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Outside the cleanroom, he is interested in:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- Translating epitaxy know-how into real devices and products  
+- Building collaborations between academia, industry and national facilities  
+- Learning more about chip design, device physics and quantum information
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you’d like to connect about research, collaborations or opportunities, feel free to reach out via email or LinkedIn.

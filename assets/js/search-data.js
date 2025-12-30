@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Semiconductor materials scientist specialising in III–V MBE epitaxy, quantum dots, and quantum photonic materials, with experience delivering device-quality wafers for research, industry, and national facilities.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-research",
           title: "research",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Semiconductor materials scientist specialising in III–V MBE epitaxy, quantum dots, and quantum photonic materials, with experience delivering device-quality wafers for research, industry, and national facilities.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "nav-projects",
           title: "projects",

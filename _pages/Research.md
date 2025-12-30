@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 nav: true
-nav_order: 3        # adjust this number to control position in the top menu
+nav_order: 2        # adjust this number to control position in the top menu
 toc: true           # shows table of contents on the right
 ---
 

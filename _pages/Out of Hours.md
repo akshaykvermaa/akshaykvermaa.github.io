@@ -8,9 +8,11 @@ description: Notes and snapshots from life outside the cleanroom.
 toc: false
 ---
 
-<img src="/assets/img/out-of-hours-hike.jpg"
-     alt="Hiking in the Peak District"
-     style="max-width: 600px; width: 100%; border-radius: 8px; margin-bottom: 20px;">
+<p align="center">
+  <img src="/assets/img/out-of-hours-hike.jpg"
+       alt="Hiking in the Peak District"
+       style="max-width: 600px; width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
+</p>
 
 I spend a lot of my “out of hours” time walking into hills, moorland, and slightly questionable weather. Hiking in wide, quiet landscapes is a refreshing counterbalance to staring at RHEED screens, XRD curves and PL spectra – it’s where I reset, clear my mind, and reconnect with things outside work.
 

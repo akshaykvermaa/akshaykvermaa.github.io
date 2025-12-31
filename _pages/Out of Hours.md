@@ -9,7 +9,7 @@ toc: false
 ---
 
 <p align="center">
-  <img src="/assets/img/out-of-hours-hike.jpg"
+  <img src="/assets/img/out-of-hours-hike-small.jpg"
        alt="Hiking in the Peak District"
        style="max-width: 600px; width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
 </p>
